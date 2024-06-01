@@ -6,6 +6,7 @@ app.route('/')
 
 
 def index():
+    print(123)
     return "test page"
 
 
